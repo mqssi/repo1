@@ -1,0 +1,8 @@
+#Ignore tous les dossiers bin
+/bin
+
+#Ignore tous les fichiers .tmp
+/**/*.tmp
+
+#Ignore tous les fichiers logs dans build
+build/**/*.log
