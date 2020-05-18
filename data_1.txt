@@ -1,0 +1,4 @@
+info: data_1
+start
+work
+end
