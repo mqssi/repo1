@@ -5,6 +5,9 @@ work
 Start :sub
   Task Test
 End : sub
+work: 
+// add task zero
+task zero
 task un
 task deux
 end
