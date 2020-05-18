@@ -1,6 +1,8 @@
 info: data
 start 
-work:
+work: 
+// add task zero
+task zero
 task un
 task deux
 end
