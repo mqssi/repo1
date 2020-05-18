@@ -1,1 +1,3 @@
 info: File A
+
+add feature 1
