@@ -1,7 +1,6 @@
 info: data
 start
-clean all
+clean all 
 task 1
-task 4
-
-end 
+task 2
+end
