@@ -1,5 +1,7 @@
 info: data
 start
 clean all
-taskzzz 1
+task 1
+task 4
+
 end 
